@@ -1,7 +1,7 @@
 [GITHUB-PROFILE-README.md](https://github.com/user-attachments/files/29616154/GITHUB-PROFILE-README.md)
 <div align="center">
 
-<img src="https://saintnico.site/assets/saintnico-banner.png" alt="Saint Nico Labs — Works Since 2025" width="520" />
+<img src="https://saintnico.site/assets/saintnico-banner.png" alt="Saint Nico Labs — Works Since 2025" width="521" />
 
 # SAINTNICO
 
