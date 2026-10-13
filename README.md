@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/saintnico.site-1D6B44?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saintnico.site)
 [![Download USSDFlow](https://img.shields.io/badge/Download%20USSDFlow-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.saintnico.kequickAirtimeanddatashortcuts)
-[![Verdly Waitlist](https://img.shields.io/badge/Verdly%20Waitlist-D4890A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254740923176?text=Hi%20Saint%20Nico!%20I%27d%20like%20to%20join%20the%20Verdly%20early%20waitlist.%0A%0AName%3A%20%0AEmail%3A%20%0A%0APlease%20let%20me%20know%20when%20early%20access%20opens.%20Thanks!)
+[![Download Verdly](https://img.shields.io/badge/Verdly%20Waitlist-D4890A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254740923176?text=Hi%20Saint%20Nico!%20I%27d%20like%20to%20join%20the%20Verdly%20early%20waitlist.%0A%0AName%3A%20%0AEmail%3A%20%0A%0APlease%20let%20me%20know%20when%20early%20access%20opens.%20Thanks!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-kiragu-0a10213a8)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254740923176)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheoleo332@gmail.com)
@@ -25,7 +25,7 @@ End-to-end native Android — architecture, Jetpack Compose UI, Play Store launc
 | App | Status | What it does | Link |
 |:---|:---|:---|:---|
 | **USSDFlow** | 🟢 Live | One-tap airtime, data bundles & USSD shortcuts | [**Download now →**](https://play.google.com/store/apps/details?id=com.saintnico.kequickAirtimeanddatashortcuts) |
-| **Verdly** | 🟡 Coming soon | Habit growth · duo streaks · focus mode · trophy hall | [**Join waitlist →**](https://wa.me/254740923176?text=Hi%20Saint%20Nico!%20I%27d%20like%20to%20join%20the%20Verdly%20early%20waitlist.%0A%0AName%3A%20%0AEmail%3A%20%0A%0APlease%20let%20me%20know%20when%20early%20access%20opens.%20Thanks!) |
+| **Verdly** | 🟡 Coming soon | Habit growth · duo streaks · focus mode · trophy hall | [**Download Verdly →**](https://play.google.com/store/apps/details?id=com.saintnico.verdlyhabits&pcampaignid=web_share) |
 | **Samaki Care** | 🟠 Beta | AI-powered fish disease detection for aquaculture | [Portfolio →](https://saintnico.site/portfolio) |
 | **HandCamera** | 🟢 Live | Camera utility app | [Portfolio →](https://saintnico.site/portfolio) |
 
