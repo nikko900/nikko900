@@ -25,7 +25,7 @@ End-to-end native Android — architecture, Jetpack Compose UI, Play Store launc
 | App | Status | What it does | Link |
 |:---|:---|:---|:---|
 | **USSDFlow** | 🟢 Live | One-tap airtime, data bundles & USSD shortcuts | [**Download now →**](https://play.google.com/store/apps/details?id=com.saintnico.kequickAirtimeanddatashortcuts) |
-| **Verdly** | 🟡 Coming soon | Habit growth · duo streaks · focus mode · trophy hall | [**Download Verdly →**](https://play.google.com/store/apps/details?id=com.saintnico.verdlyhabits&pcampaignid=web_share) |
+| **Verdly** | 🟡 Live | Habit growth · duo streaks · focus mode · trophy hall | [**Download Verdly →**](https://play.google.com/store/apps/details?id=com.saintnico.verdlyhabits&pcampaignid=web_share) |
 | **Samaki Care** | 🟠 Beta | AI-powered fish disease detection for aquaculture | [Portfolio →](https://saintnico.site/portfolio) |
 | **HandCamera** | 🟢 Live | Camera utility app | [Portfolio →](https://saintnico.site/portfolio) |
 
@@ -78,7 +78,7 @@ End-to-end native Android — architecture, Jetpack Compose UI, Play Store launc
 ## Currently
 
 - 🚀 Shipping **USSDFlow** updates — [**download on Play Store**](https://play.google.com/store/apps/details?id=com.saintnico.kequickAirtimeanddatashortcuts)
-- 🌱 Building **Verdly** — [**join the early waitlist**](https://wa.me/254740923176?text=Hi%20Saint%20Nico!%20I%27d%20like%20to%20join%20the%20Verdly%20early%20waitlist.%0A%0AName%3A%20%0AEmail%3A%20%0A%0APlease%20let%20me%20know%20when%20early%20access%20opens.%20Thanks!)
+- 🌱 Building **Verdly** — [**download on Play Store**](https://play.google.com/store/apps/details?id=com.saintnico.verdlyhabits&pcampaignid=web_share)
 - 🔬 Running **Samaki Care** beta with on-device AI
 - 📈 Experimenting with **Ktor** as a Firebase alternative
 
